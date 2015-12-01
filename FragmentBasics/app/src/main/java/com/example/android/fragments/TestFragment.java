@@ -9,6 +9,6 @@ public class TestFragment {
         //Should not do anything
 
         int x = 0;
-        x = x + 10;
+        x = x + 22;
     }
 }
